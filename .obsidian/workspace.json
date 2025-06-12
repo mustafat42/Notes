@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new nots.md",
+                "file": "d.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "new nots"
+              "title": "d"
             }
           }
         ]
@@ -193,12 +193,14 @@
       "githobs:Manage a github issue": false
     }
   },
-  "active": "ad88ab3978c08784",
+  "active": "56d61512c2f92faf",
   "lastOpenFiles": [
-    "README.md",
+    "d.md",
     "new nots.md",
+    "Untitled",
+    "README.md",
     "Obsidian instructions.md",
-    "Untitled.canvas",
+    "sa.canvas",
     "بدون عنوان 1.canvas",
     "٢٠٢٥-٠٦-١٣.md",
     "مرحبًا.md",
