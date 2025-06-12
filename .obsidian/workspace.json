@@ -11,17 +11,14 @@
             "id": "32d5227737f2a1ab",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -196,13 +193,13 @@
       "githobs:Manage a github issue": false
     }
   },
-  "active": "ad88ab3978c08784",
+  "active": "32d5227737f2a1ab",
   "lastOpenFiles": [
+    "Obsidian instructions.md",
     "README.md",
     "Untitled.canvas",
     "بدون عنوان 1.canvas",
     "٢٠٢٥-٠٦-١٣.md",
-    "Obsidian instructions.md",
     "مرحبًا.md",
     "بدون عنوان.canvas",
     "Laravel Mohammed Safadi"
