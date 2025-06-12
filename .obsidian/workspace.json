@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "4e34fa2324c21acc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a70906462ad26b6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32d5227737f2a1ab",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b572244d945429da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56d61512c2f92faf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ed36ab119b2c389",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7fe3fc38854901b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad88ab3978c08784",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f8660b74f5a9eaa1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#heading",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "البحث"
+            }
+          },
+          {
+            "id": "bd3193b146a6346f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "الإشارات المرجعية"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f275f551565e8b75",
+    "type": "split",
+    "children": [
+      {
+        "id": "b21e9602bd22dc24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdcbee0b18109033",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "روابط نصية"
+            }
+          },
+          {
+            "id": "37b7ab489e3f5cdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "روابط صادرة"
+            }
+          },
+          {
+            "id": "0ccfdc870f6a9209",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "851fa6c7fbddcb95",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "الخطوط العريضة"
+            }
+          },
+          {
+            "id": "5f487255255a3ad0",
+            "type": "leaf",
+            "state": {
+              "type": "github-issue-controls-view",
+              "state": {},
+              "icon": "github",
+              "title": "Github Issue Controls"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "githobs:Manage a github issue": false
+    }
+  },
+  "active": "ad88ab3978c08784",
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled.canvas",
+    "بدون عنوان 1.canvas",
+    "٢٠٢٥-٠٦-١٣.md",
+    "Obsidian instructions.md",
+    "مرحبًا.md",
+    "بدون عنوان.canvas",
+    "Laravel Mohammed Safadi"
+  ]
+}
