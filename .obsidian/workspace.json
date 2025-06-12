@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a70906462ad26b6d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "32d5227737f2a1ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "d.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "d"
-            }
-          }
-        ]
-      },
-      {
         "id": "b572244d945429da",
         "type": "tabs",
         "children": [
@@ -31,10 +11,14 @@
             "id": "56d61512c2f92faf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian instructions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian instructions"
             }
           }
         ]
@@ -156,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Obsidian instructions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "الخطوط العريضة"
+              "title": "Outline of Obsidian instructions"
             }
           },
           {
@@ -175,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -195,12 +180,12 @@
   },
   "active": "56d61512c2f92faf",
   "lastOpenFiles": [
-    "d.md",
+    "sa.canvas",
+    "Obsidian instructions.md",
     "new nots.md",
+    "d.md",
     "Untitled",
     "README.md",
-    "Obsidian instructions.md",
-    "sa.canvas",
     "بدون عنوان 1.canvas",
     "٢٠٢٥-٠٦-١٣.md",
     "مرحبًا.md",
