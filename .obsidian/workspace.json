@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "new nots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "new nots"
             }
           }
         ]
@@ -193,10 +193,11 @@
       "githobs:Manage a github issue": false
     }
   },
-  "active": "32d5227737f2a1ab",
+  "active": "ad88ab3978c08784",
   "lastOpenFiles": [
-    "Obsidian instructions.md",
     "README.md",
+    "new nots.md",
+    "Obsidian instructions.md",
     "Untitled.canvas",
     "بدون عنوان 1.canvas",
     "٢٠٢٥-٠٦-١٣.md",
