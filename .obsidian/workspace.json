@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "روابط نصية"
+              "title": "Backlinks for Obsidian instructions"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "روابط صادرة"
+              "title": "Outgoing links from Obsidian instructions"
             }
           },
           {
@@ -160,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +180,7 @@
       "githobs:Manage a github issue": false
     }
   },
-  "active": "56d61512c2f92faf",
+  "active": "37b7ab489e3f5cdb",
   "lastOpenFiles": [
     "sa.canvas",
     "Obsidian instructions.md",
