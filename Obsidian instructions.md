@@ -10,3 +10,9 @@ you can make line by ___ write 3 dash by shift+(-) then click enter
 you can create headlin two by this ## your_words
 
 if you want to link this note with any other note you can do it by this write two [[]] then between them write your note name to conect  [[مرحبًا]] 
+
+
+
+1- عرض الباقات بناء علي الاحداثيات التي يرسلها الميتخدم من التطبيق
+2- عمل اختبار لاشعارات ال Firebase
+3- تسجيل الدخول باستخدام google
